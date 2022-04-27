@@ -1,5 +1,5 @@
-<!-- Episode entity 구현하기
-팟캐스트의 에피소드에 해당하는 데이터 구조를 간략하게 만드시면 됩니다. -->
+Episode entity 구현하기
+팟캐스트의 에피소드에 해당하는 데이터 구조를 간략하게 만드시면 됩니다.
 
 ```ts
 export class Episode {
